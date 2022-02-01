@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(90deg, rgb(241, 223, 238) 0%, rgba(224,224,224,1) 30%, rgb(244, 252, 253) 100%);
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+.home{
+    margin-top: 60px;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center  ;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    height: 190px ;
+    width: 420px;
+}
+.home button{
+    text-align: center;
+    height: 25px;
+    width: 68px;
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 0px;
+    background-color: rgb(41, 41, 41);
+    color: rgb(248, 248, 248);
+    border-radius: 15px;
+}
+#num{
+    width: 100px;
+    border-style: solid;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 1px; 
+    border-color: black;
+    text-align: center;
+}
+.rezz{
+    margin-top: 60px;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center  ;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    height: 190px ;
+    width: 420px;
+}
+.rezz button{
+    text-align: center;
+    height: 25px;
+    width: 150px;
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 0px;
+    background-color: rgb(41, 41, 41);
+    color: rgb(248, 248, 248);
+    border-radius: 15px;
+}
